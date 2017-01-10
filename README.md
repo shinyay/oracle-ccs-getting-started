@@ -100,6 +100,8 @@ Container Cloud Service サービス・インスタンスのダッシュボー�
 
 ![](images/ccs07.jpg)
 
+### 2. Container Cloud Service ダッシュボードの利用
+
 Container Cloud Service のダッシュボード画面へのログイン画面が表示されます。ここでは、サービス・インスタンス作成時に設定した **管理者ユーザ名** と、**管理者パスワード**  を入力します。
 
 ![](images/ccs08.jpg)
@@ -150,6 +152,8 @@ Container Cloud Service のダッシュボード画面へのログイン画面�
 ![](images/ccs09.png)
 
 
+### 3. Docker コンテナの起動
+
 メニューから **Service** を選択して、登録済みのサービス (Docker コンテナ) 一覧を表示します。
 
 ![](images/ccs10.png)
@@ -183,7 +187,7 @@ Serice (Docker コンテナ)が起動すると、以下のように各 Docker �
 
 
 また、**Container** を選択すると、マッピングされているポート番号情報が確認できます。
-この helloworld コンテナは、80番ポートを9000番ポートにマッピングしる事が分かります。
+この helloworld コンテナは、80番ポートを9000番ポートにマッピングしている事が分かります。
 
 ![](images/ccs16.png)
 
